@@ -13,5 +13,7 @@ Translate into code an existing poem
     2. Add your poem in the folder  (if the poem already exist create a folder for the poem) 
 ### Example 
   If I want to add RomeoAndJuliet.py 
+  
   Create a folder WilliamShakespeare/
+  
   Add your file in this folder 
